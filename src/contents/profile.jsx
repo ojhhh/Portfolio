@@ -51,9 +51,7 @@ const Profile = () => {
                 <Hero>
                     오정현 <span className="text-[16px] text-slate-400 font-normal">winnel</span>
                 </Hero>
-                <p className="text-slate-700 pt-[5px] md:text-[24px] md:pt-[10px] text-[16px]">
-                    사는게 무엇인지 개발이 무엇인지 아직 알수없지만~
-                </p>
+                <p className="text-slate-700 pt-[5px] md:text-[24px] md:pt-[10px] text-[16px]">내일이 궁금한 개발자</p>
                 <p className="flex flex-col text-[16px] items-left pt-[7px] md:pt-[5px] md:text-[14px]">
                     <a href="mailto:web7722@gmail.com" className="flex items-center gap-[5px] text-slate-600">
                         <TfiEmail />
