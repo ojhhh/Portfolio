@@ -292,13 +292,13 @@ const Projects = () => {
                 </li>
             </ul>
 
-            {/* <Modal show={isShowingModal} onCloseButtonClick={toggleModal}>
+            <Modal show={isShowingModal} onCloseButtonClick={toggleModal}>
                 아무것도 없쥬?
             </Modal>
 
             <Modal show={isShowingModal2} onCloseButtonClick={toggleModal2}>
                 test2222
-            </Modal> */}
+            </Modal>
         </Wrapper>
     )
 }
