@@ -1,6 +1,6 @@
 import { Wrapper, Heading } from '../components/common'
 import { DiJavascript, DiNodejs, DiGithubBadge } from 'react-icons/di'
-import { SiNextdotjs, SiTypescript, SiJavascript, SiExpress, SiReact } from 'react-icons/si'
+import { SiNextdotjs, SiTypescript, SiJavascript, SiExpress, SiReact, SiNodedotjs } from 'react-icons/si'
 
 const Skills = () => {
     return (
@@ -18,19 +18,18 @@ const Skills = () => {
                                 <span className="md:w-[120px]">Javascript</span>
                             </span>
                             <ul className="list-disc list-outside leading-6 px-[20px] md:leading-8 text-[12px] md:text-[16px] ">
-                                <li>
-                                    변수를 선언할줄
-                                    암!암!암!암!암!암!암!암!암!암!암!암!암!암!암!암!암!암!암!암!암!암!암!암!
-                                    암!암!암!암!암!암!암!암!암!암!암!암!암!암!암!
-                                </li>
-                                <li>Console.log 잘찍음</li>
-                                <li>연산자 사용할줄암!</li>
-                                <li>조건문을 배움</li>
-                                <li>배열 메서드를 능숙하게 다룸!</li>
+                                <li>변수를 사용할 줄 알며 var, let, const의 차이에 대해 설명 할 줄 암</li>
+                                <li>콜 스택에 대해 설명 할 줄 암</li>
+                                <li>이벤트 루프에 대해 설명 할 줄 암</li>
+                                <li>런타임에 대해 설명 할 줄 암</li>
+                                <li>블록, 함수, 레지컬 스코프에 차이에 대하 설명 할 줄 암</li>
+                                <li>적절한 조건문을 사용하여 처리속도를 줄일 줄 암</li>
+                                <li>forEach, Map, Reduce 차이에 대해 설명 할 줄 알고 사용할 줄 암</li>
+                                <li>이렇게 쓰면 면접때 탈탈 털리겟지?</li>
                             </ul>
                         </li>
 
-                        <li className="flex flex-col gap-[8px] md:gap-[32px] md:flex-row items-baseline">
+                        {/* <li className="flex flex-col gap-[8px] md:gap-[32px] md:flex-row items-baseline">
                             <span className="text-[16px] text-slate-600 md:text-[24px] basis-[20%] flex items-center gap-[8px]">
                                 <SiTypescript />
                                 <span className="md:w-[120px]">Typescript</span>
@@ -42,7 +41,7 @@ const Skills = () => {
                                 <li>조건문을 배움</li>
                                 <li>배열 메서드를 능숙하게 다룸!</li>
                             </ul>
-                        </li>
+                        </li> */}
                     </ul>
                 </li>
 
@@ -57,12 +56,14 @@ const Skills = () => {
                                 <span className="md:w-[120px]">React</span>
                             </span>
                             <ul className="list-disc list-outside leading-6 px-[20px] md:leading-8 text-[12px] md:text-[16px] ">
+                                <li>브라우저 랜더링 과정을 설명 할 수 있음</li>
+                                <li>상태에 대해 설명 할 줄 암</li>
                                 <li>CRA로 프로젝트 다수 생성 경험 보유!</li>
-                                <li>상태에 대해서 설명할수있음!</li>
-                                <li>브라우저 랜더링 과정을 설명 할 수 있음!</li>
+                                <li>CRA와 webpack 버전이 달라지면서 인식되지 않는 오류를 수정해본 경험이 있음</li>
+                                <li>useState, useEffect 등 훅을 적절하게 사용할 줄 암</li>
                             </ul>
                         </li>
-
+                        {/* 
                         <li className="flex flex-col gap-[8px] md:gap-[32px] md:flex-row items-baseline">
                             <span className="text-[16px] text-slate-600 md:text-[24px] basis-[20%] flex items-center gap-[8px]">
                                 <SiNextdotjs />
@@ -74,7 +75,7 @@ const Skills = () => {
                                 <li>interface 배우는중!</li>
                                 <li>any 잘씀!</li>
                             </ul>
-                        </li>
+                        </li> */}
                     </ul>
                 </li>
 
@@ -85,8 +86,8 @@ const Skills = () => {
                     <ul className="flex flex-col gap-[16px] text-[16px] pb-[32px] font-medium w-full items-start">
                         <li className="flex flex-col gap-[8px] md:gap-[32px] md:flex-row items-baseline">
                             <span className="text-[16px] text-slate-600 md:text-[24px] basis-[20%] flex items-center gap-[8px]">
-                                <SiExpress />
-                                <span className="md:w-[120px]">Express</span>
+                                <SiNodedotjs />
+                                <span className="md:w-[120px]">NodeJS</span>
                             </span>
                             <ul className="list-disc list-outside leading-6 px-[20px] md:leading-8 text-[12px] md:text-[16px] ">
                                 <li>RestFul API 스럽게 할라고 노력함!</li>
