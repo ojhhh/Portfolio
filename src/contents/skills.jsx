@@ -19,13 +19,12 @@ const Skills = () => {
                             </span>
                             <ul className="list-disc list-outside leading-6 px-[20px] md:leading-8 text-[12px] md:text-[16px] ">
                                 <li>변수를 사용할 줄 알며 var, let, const의 차이에 대해 설명 할 줄 암</li>
-                                <li>콜 스택에 대해 설명 할 줄 암</li>
-                                <li>이벤트 루프에 대해 설명 할 줄 암</li>
-                                <li>런타임에 대해 설명 할 줄 암</li>
-                                <li>블록, 함수, 레지컬 스코프에 차이에 대하 설명 할 줄 암</li>
+                                <li>콜 스택에 대해 이해함</li>
+                                <li>이벤트 루프에 대해 이해함</li>
+                                <li>런타임에 대해 이해함</li>
+                                <li>블록, 함수, 레지컬 스코프에 차이에 대하 이해함</li>
                                 <li>적절한 조건문을 사용하여 처리속도를 줄일 줄 암</li>
                                 <li>forEach, Map, Reduce 차이에 대해 설명 할 줄 알고 사용할 줄 암</li>
-                                <li>이렇게 쓰면 면접때 탈탈 털리겟지?</li>
                             </ul>
                         </li>
 
@@ -91,6 +90,10 @@ const Skills = () => {
                             </span>
                             <ul className="list-disc list-outside leading-6 px-[20px] md:leading-8 text-[12px] md:text-[16px] ">
                                 <li>RestFul API 스럽게 할라고 노력함!</li>
+                                <li>MVC 패턴을 프로젝트에 적용할 줄 암</li>
+                                <li>JWT를 활용하여 회원 정보를 관리 할 수 있음</li>
+                                <li>socket에 대해 이해함</li>
+                                <li>Sequelize를 다룰 줄 암</li>
                             </ul>
                         </li>
                     </ul>
