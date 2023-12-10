@@ -15,6 +15,11 @@ const Certifications = () => {
                         SQLD
                     </h3>
                 </li>
+                <li className="flex flex-row gap-[32px] py-[32px">
+                    <h3 className="text-[16px] md:text-[24px] font-extrabold md:font-semibold w-[50%] basisc-[25%]">
+                        네트워크 관리사 2급
+                    </h3>
+                </li>
             </ul>
         </Wrapper>
     )
