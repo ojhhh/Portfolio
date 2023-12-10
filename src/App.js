@@ -4,6 +4,8 @@ import Introduce from './contents/introduce'
 import Projects from './contents/projects'
 import Skills from './contents/skills'
 import Footer from './contents/footer'
+import Education from './contents/education'
+import Certifications from './contents/certifications'
 
 function App() {
     return (
@@ -21,10 +23,10 @@ function App() {
                 <Skills />
 
                 {/* Education */}
-                {/* <Education /> */}
+                <Education />
 
                 {/* Certifications */}
-                {/* <Certifications /> */}
+                <Certifications />
 
                 {/* footer */}
                 <Footer />
