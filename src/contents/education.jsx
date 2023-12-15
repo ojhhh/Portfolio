@@ -3,7 +3,7 @@ import { Wrapper, Heading } from '../components/common'
 const Education = () => {
     return (
         <Wrapper>
-            <Heading>education</Heading>
+            <Heading>교육</Heading>
             <ul className="flex flex-col divide-y divide-gray-400">
                 <li className="flex flex-row gap-[32px] py-[32px">
                     <h3 className="text-[16px] md:text-[24px] font-extrabold md:font-semibold w-[50%] basisc-[25%]">
