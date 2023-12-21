@@ -18,6 +18,7 @@ const Education = () => {
                                 <li>[ 프론트엔드 ] : React</li>
                                 <li>[ 데이터베이스 ] : MySQL</li>
                                 <li>[ 블록체인 ] : Solidity</li>
+                                <li>[ tool ] : vscode, mysql workbench</li>
                             </ul>
                         </li>
                     </ul>
@@ -53,9 +54,8 @@ const Education = () => {
                             <ul className="list-disc list-outside leading-6 px-[20px] md:leading-8 text-[12px] md:text-[16px] ">
                                 <li>[ 웹 프로그래밍 기초 ] : PHP</li>
                                 <li>[ 네트워크 ] : switch, router, cisco</li>
-                                <li>[ 서버 ] : window server, centos, </li>
-                                <li>[ 데이터베이스 ] : MySQL</li>
-                                <li>[ 블록체인 ] : Solidity</li>
+                                <li>[ 서버 ] : window server, centos, backtrack </li>
+                                <li>[ 방화벽 ] : UTM</li>
                             </ul>
                         </li>
                     </ul>
