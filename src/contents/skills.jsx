@@ -1,6 +1,7 @@
 import { Wrapper, Heading } from '../components/common'
 import { DiJavascript, DiNodejs, DiGithubBadge } from 'react-icons/di'
 import { SiNextdotjs, SiTypescript, SiJavascript, SiExpress, SiReact, SiNodedotjs } from 'react-icons/si'
+import { AiOutlineBlock } from 'react-icons/ai'
 
 const Skills = () => {
     return (
@@ -94,6 +95,24 @@ const Skills = () => {
                                 <li>JWT를 활용하여 회원 정보를 관리 할 수 있음</li>
                                 <li>socket에 대해 이해함</li>
                                 <li>Sequelize를 다룰 줄 암</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+
+                <li className="flex flex-row gap-[32px] py-[32px]">
+                    <h3 className="text-[16px] md:text-[24px] font-extrabold md:font-semibold w-[20%] basisc-[25%]">
+                        블록체인
+                    </h3>
+                    <ul className="flex flex-col gap-[16px] text-[16px] pb-[32px] font-medium w-full items-start">
+                        <li className="flex flex-col gap-[8px] md:gap-[32px] md:flex-row items-baseline">
+                            <span className="text-[16px] text-slate-600 md:text-[24px] basis-[20%] flex items-center gap-[8px]">
+                                <AiOutlineBlock />
+                                <span className="md:w-[120px]">Solidity</span>
+                            </span>
+                            <ul className="list-disc list-outside leading-6 px-[20px] md:leading-8 text-[12px] md:text-[16px] ">
+                                <li>Openzeppelin을 사용하여 ERC20, ERC721을 사용할 줄 암</li>
+                                <li>fallback method를 사용할 줄 암</li>
                             </ul>
                         </li>
                     </ul>

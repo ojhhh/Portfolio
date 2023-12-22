@@ -34,7 +34,8 @@ const Education = () => {
                         <li className="flex flex-col gap-[8px] md:gap-[32px] md:flex-row items-baseline">
                             <ul className="list-disc list-outside leading-6 px-[20px] md:leading-8 text-[12px] md:text-[16px] ">
                                 <li>[ 웹 프로그래밍 기초 ] : HTML, CSS, jQuery</li>
-                                <li>[ 백엔드 ] : Java, Java Spring</li>
+                                <li>[ 백엔드 ] : Java</li>
+                                <li>[ 프레임워크 ] : Java Spring</li>
                                 <li>[ 프론트엔드 ] : JSP</li>
                                 <li>[ 데이터베이스 ] : Oracle</li>
                                 <li>[ ETC ] : AWS EC2, AWS lambda, AWS DynamoDB</li>
@@ -53,9 +54,10 @@ const Education = () => {
                         <li className="flex flex-col gap-[8px] md:gap-[32px] md:flex-row items-baseline">
                             <ul className="list-disc list-outside leading-6 px-[20px] md:leading-8 text-[12px] md:text-[16px] ">
                                 <li>[ 웹 프로그래밍 기초 ] : PHP</li>
-                                <li>[ 네트워크 ] : switch, router, cisco</li>
+                                <li>[ 네트워크 ] : switch, router</li>
                                 <li>[ 서버 ] : window server, centos, backtrack </li>
                                 <li>[ 방화벽 ] : UTM</li>
+                                <li>[ 데이터베이스 ] : MySQL</li>
                             </ul>
                         </li>
                     </ul>

@@ -53,13 +53,11 @@ const Projects = () => {
                         </h2>
 
                         <p className="leading-5 text-slate-950 text-[12px] md:text-[16px] md:leading-7">
-                            {/* 내가 어디 회사랑 협약을 했는데 말이야~ 와 좀만 젊었어도 다 해결했을텐데 말야~ 진짜
-                            어쩌구저쩌구 궁시렁 궁시렁 진짜 해줄거 다해줬는데 안해주네~~~ */}
                             실제 블록체인 사업을 하고 있는 업체와 협약하여 진행한 프로젝트로 현물 부동산을
-                            조각지분화하여 사고 팔수 있으며 가지고 있는 지분만큼 배당금을 받을 수도 있으며 투표권을 행사
+                            조각지분화하여 사고 팔수 있고 가지고 있는 지분만큼 배당금을 받을 수도 있으며 투표권을 행사
                             할 수 있습니다.
                         </p>
-                        <p className="leading-5 text-slate-950 text-[12px] md:text-[16px] md:leading-7">
+                        {/* <p className="leading-5 text-slate-950 text-[12px] md:text-[16px] md:leading-7">
                             사용자 페이지는 React를 사용하여 웹/앱의 형태로 구현하였으며 지갑은 메타마스크를
                             사용하였습니다.
                         </p>
@@ -72,7 +70,7 @@ const Projects = () => {
                         <p className="leading-5 text-slate-950 text-[12px] md:text-[16px] md:leading-7">
                             블록체인은 solidity를 사용하여 컨트랙트를 생성 배포 하여 토큰 발행, 투표 등록 및 투표 기능을
                             구현 하였으며 web3.js를 활용하여 트랜잭션을 추적하였습니다.
-                        </p>
+                        </p> */}
 
                         <h3 className="py-[16px] text-[16px] font-bold">사용 스택</h3>
                         <div className="flex flex-row text-[32px] gap-[8px] py-[8px] px-[32px]">
@@ -297,7 +295,7 @@ const Projects = () => {
             </Modal>
 
             <Modal show={isShowingModal2} onCloseButtonClick={toggleModal2}>
-                test2222
+                유튜브에 있는 영상 보여주기
             </Modal>
         </Wrapper>
     )
