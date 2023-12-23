@@ -284,7 +284,7 @@ const Projects = () => {
                             <li>
                                 Collection, Collist, Stories 이미지 보여주는 기능 구현 및 페이지 전체 레이아웃 구현{' '}
                             </li>
-                            <li>Submit 페이지 전체 레이아웃 구현</li>
+                            <li>사진등록 페이지 전체 레이아웃 구현</li>
                         </ul>
                     </div>
                 </li>
