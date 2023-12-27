@@ -145,8 +145,7 @@ const Projects = () => {
                         </p>
                         <p className="leading-5 text-slate-950 text-[12px] md:text-[16px] md:leading-7">
                             커스텀한 옷을 입고 찍은 사진을 올릴 수도 있는 게시판도 존재하여 여러 사람들과 공유 할 수
-                            있습니다. backend는 Node.js를 사용하여 구현하였으며 frontend는 React 사용하여
-                            구현하였습니다.
+                            있습니다.
                         </p>
 
                         <h3 className="py-[16px] text-[16px] font-bold">사용 스택</h3>
@@ -203,7 +202,7 @@ const Projects = () => {
 
                         <p className="leading-5 text-slate-950 text-[12px] md:text-[16px] md:leading-7">
                             나작작은 나만의 작은 작가라는 뜻으로 여러 작가들이 자신의 책을 등록하면 사용자들이 등록한
-                            책을 구매하여 읽고 리뷰를 남기거나 책에 대한 평점을 매겨 추천할 수 있는 사이트
+                            책을 구매하여 읽고 리뷰를 남기거나 책에 대한 평점을 매겨 추천할 수 있는 사이트입니다.
                         </p>
 
                         <h3 className="py-[16px] text-[16px] font-bold">사용 스택</h3>

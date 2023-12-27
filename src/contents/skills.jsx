@@ -25,26 +25,12 @@ const Skills = () => {
                                 <li>런타임에 대해 이해함</li>
                                 <li>블록, 함수, 레지컬 스코프에 차이에 대하 이해함</li>
                                 <li>적절한 조건문을 사용하여 처리속도를 줄일 줄 암</li>
-                                <li>forEach, Map, Reduce 차이에 대해 설명 할 줄 알고 사용할 줄 암</li>
                             </ul>
                         </li>
-
-                        {/* <li className="flex flex-col gap-[8px] md:gap-[32px] md:flex-row items-baseline">
-                            <span className="text-[16px] text-slate-600 md:text-[24px] basis-[20%] flex items-center gap-[8px]">
-                                <SiTypescript />
-                                <span className="md:w-[120px]">Typescript</span>
-                            </span>
-                            <ul className="list-disc list-outside leading-6 px-[20px] md:leading-8 text-[12px] md:text-[16px] ">
-                                <li>Typescript 세팅할줄암!!!!!!!!!!!</li>
-                                <li>Console.log 잘찍음</li>
-                                <li>연산자 사용할줄암!</li>
-                                <li>조건문을 배움</li>
-                                <li>배열 메서드를 능숙하게 다룸!</li>
-                            </ul>
-                        </li> */}
                     </ul>
                 </li>
-
+            </ul>
+            <ul className="flex flex-col divide-y divide-gray-400">
                 <li className="flex flex-row gap-[32px] py-[32px]">
                     <h3 className="text-[16px] md:text-[24px] font-extrabold md:font-semibold w-[20%] basisc-[25%]">
                         프론트 앤드
@@ -63,22 +49,10 @@ const Skills = () => {
                                 <li>useState, useEffect 등 훅을 적절하게 사용할 줄 암</li>
                             </ul>
                         </li>
-                        {/* 
-                        <li className="flex flex-col gap-[8px] md:gap-[32px] md:flex-row items-baseline">
-                            <span className="text-[16px] text-slate-600 md:text-[24px] basis-[20%] flex items-center gap-[8px]">
-                                <SiNextdotjs />
-                                <span className="md:w-[120px]">NextJS</span>
-                            </span>
-                            <ul className="list-disc list-outside leading-6 px-[20px] md:leading-8 text-[12px] md:text-[16px] ">
-                                <li>Client Component 암!</li>
-                                <li>동적라우팅 사용해봄!</li>
-                                <li>interface 배우는중!</li>
-                                <li>any 잘씀!</li>
-                            </ul>
-                        </li> */}
                     </ul>
                 </li>
-
+            </ul>
+            <ul className="flex flex-col divide-y divide-gray-400">
                 <li className="flex flex-row gap-[32px] py-[32px]">
                     <h3 className="text-[16px] md:text-[24px] font-extrabold md:font-semibold w-[20%] basisc-[25%]">
                         백앤드
@@ -99,7 +73,8 @@ const Skills = () => {
                         </li>
                     </ul>
                 </li>
-
+            </ul>
+            <ul className="flex flex-col divide-y divide-gray-400">
                 <li className="flex flex-row gap-[32px] py-[32px]">
                     <h3 className="text-[16px] md:text-[24px] font-extrabold md:font-semibold w-[20%] basisc-[25%]">
                         블록체인
@@ -113,6 +88,7 @@ const Skills = () => {
                             <ul className="list-disc list-outside leading-6 px-[20px] md:leading-8 text-[12px] md:text-[16px] ">
                                 <li>Openzeppelin을 사용하여 ERC20, ERC721을 사용할 줄 암</li>
                                 <li>fallback method를 사용할 줄 암</li>
+                                <li>mapping method를 사용할 줄 암</li>
                             </ul>
                         </li>
                     </ul>
