@@ -41,16 +41,14 @@ const Profile = () => {
         >
             <div className="w-[280px] md:w-[28%] ">
                 <img
-                    src="./ojh.jpg"
+                    src="./img/ojh.jpg"
                     aria-hidden
                     alt="profile image"
                     className="w-[100vw] m-auto rounded-full border-2 border-slate-500"
                 />
             </div>
             <div className="w-[100%] box-border md:w-[70%] md:p-[10px] ">
-                <Hero>
-                    오정현 <span className="text-[16px] text-slate-400 font-normal">winnel</span>
-                </Hero>
+                <Hero>오정현</Hero>
                 <p className="text-slate-700 pt-[5px] md:text-[24px] md:pt-[10px] text-[16px]">내일이 궁금한 개발자</p>
                 <p className="flex flex-col text-[16px] items-left pt-[7px] md:pt-[5px] md:text-[14px]">
                     <a href="mailto:web7722@gmail.com" className="flex items-center gap-[5px] text-slate-600">
