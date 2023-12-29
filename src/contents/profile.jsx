@@ -59,10 +59,6 @@ const Profile = () => {
                         <IoLogoGithub />
                         ojhhh
                     </a>
-                    {/* <a href="https://tistory.com" className="flex items-center gap-[5px] text-slate-600">
-                        <FaBlogger />
-                        blog...
-                    </a> */}
                 </p>
             </div>
         </div>
