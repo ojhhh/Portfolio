@@ -1,15 +1,39 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.2b2c6b8e.css",
-    "main.js": "/Portfolio/static/js/main.47eb26f4.js",
+    "main.css": "/Portfolio/static/css/main.d7bf67cf.css",
+    "main.js": "/Portfolio/static/js/main.2725185d.js",
     "static/js/787.7da95b79.chunk.js": "/Portfolio/static/js/787.7da95b79.chunk.js",
+    "static/media/testcode.png": "/Portfolio/static/media/testcode.4760f0580e01dbc80f06.png",
+    "static/media/sto_database.png": "/Portfolio/static/media/sto_database.da9e82d189e2f2eec520.png",
+    "static/media/sto_api.png": "/Portfolio/static/media/sto_api.8388cc14824863ac7df1.png",
+    "static/media/api.png": "/Portfolio/static/media/api.aa65280d34e577dc4a90.png",
+    "static/media/actions.png": "/Portfolio/static/media/actions.6ca8b3a87015c9679889.png",
+    "static/media/subscription_page.png": "/Portfolio/static/media/subscription_page.230abacd0e3da2d4607e.png",
+    "static/media/sto_mypage_2.png": "/Portfolio/static/media/sto_mypage_2.2949657c3cf8fed2578d.png",
+    "static/media/sto_img_1.png": "/Portfolio/static/media/sto_img_1.795d05607c86e117d8ea.png",
+    "static/media/strength.png": "/Portfolio/static/media/strength.f0a135ec41ceaa8336f8.png",
+    "static/media/dockerfile.png": "/Portfolio/static/media/dockerfile.1f7409d21fb0323bbdb4.png",
+    "static/media/weakness.png": "/Portfolio/static/media/weakness.99c95ef784d1232301de.png",
+    "static/media/blocklog.png": "/Portfolio/static/media/blocklog.42f83c882203d2a8a259.png",
+    "static/media/onbording_1.png": "/Portfolio/static/media/onbording_1.33dfcbc42a46a923dd68.png",
+    "static/media/sto_mypage_1.png": "/Portfolio/static/media/sto_mypage_1.3ccd83d1994c4c760474.png",
+    "static/media/ojh.jpg": "/Portfolio/static/media/ojh.0241650420f884e6ca30.jpg",
+    "static/media/question_4.png": "/Portfolio/static/media/question_4.ad2ecb50877ccff36d9f.png",
+    "static/media/nickname.png": "/Portfolio/static/media/nickname.0d5cb5558238c0febc42.png",
+    "static/media/chiplist.png": "/Portfolio/static/media/chiplist.b54d964d6e78a493d17b.png",
+    "static/media/trading.png": "/Portfolio/static/media/trading.a663db27d2ff086e5628.png",
+    "static/media/home_1.png": "/Portfolio/static/media/home_1.f967ed08e03e9fed87dc.png",
+    "static/media/home_2.png": "/Portfolio/static/media/home_2.8d93878f36df417bf95c.png",
+    "static/media/question_3.png": "/Portfolio/static/media/question_3.c05c754dce8b0144471a.png",
+    "static/media/question_1.png": "/Portfolio/static/media/question_1.ad6811bada38c552467c.png",
+    "static/media/question_2.png": "/Portfolio/static/media/question_2.f1cc03066bae44c751dc.png",
     "index.html": "/Portfolio/index.html",
-    "main.2b2c6b8e.css.map": "/Portfolio/static/css/main.2b2c6b8e.css.map",
-    "main.47eb26f4.js.map": "/Portfolio/static/js/main.47eb26f4.js.map",
+    "main.d7bf67cf.css.map": "/Portfolio/static/css/main.d7bf67cf.css.map",
+    "main.2725185d.js.map": "/Portfolio/static/js/main.2725185d.js.map",
     "787.7da95b79.chunk.js.map": "/Portfolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b2c6b8e.css",
-    "static/js/main.47eb26f4.js"
+    "static/css/main.d7bf67cf.css",
+    "static/js/main.2725185d.js"
   ]
 }
