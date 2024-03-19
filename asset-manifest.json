@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.d7bf67cf.css",
-    "main.js": "/Portfolio/static/js/main.2725185d.js",
+    "main.css": "/Portfolio/static/css/main.81753a6d.css",
+    "main.js": "/Portfolio/static/js/main.2848a31c.js",
     "static/js/787.7da95b79.chunk.js": "/Portfolio/static/js/787.7da95b79.chunk.js",
+    "static/media/custumapparel_photo.png": "/Portfolio/static/media/custumapparel_photo.b3d7b898586111dfcbb8.png",
+    "static/media/custumapparel_erd.png": "/Portfolio/static/media/custumapparel_erd.283181c57806991d32c5.png",
     "static/media/testcode.png": "/Portfolio/static/media/testcode.4760f0580e01dbc80f06.png",
+    "static/media/custumapparel_custum.png": "/Portfolio/static/media/custumapparel_custum.6bc3d4fecb578d4fe04f.png",
+    "static/media/custumapparel_admin.png": "/Portfolio/static/media/custumapparel_admin.2bfb8c02a4f537c8ecc6.png",
     "static/media/sto_database.png": "/Portfolio/static/media/sto_database.da9e82d189e2f2eec520.png",
     "static/media/sto_api.png": "/Portfolio/static/media/sto_api.8388cc14824863ac7df1.png",
     "static/media/api.png": "/Portfolio/static/media/api.aa65280d34e577dc4a90.png",
     "static/media/actions.png": "/Portfolio/static/media/actions.6ca8b3a87015c9679889.png",
+    "static/media/custumapparel_nginx.png": "/Portfolio/static/media/custumapparel_nginx.713518a70caae7fc43ae.png",
+    "static/media/custumapparel_route.png": "/Portfolio/static/media/custumapparel_route.7c117f2ea1a3339848b8.png",
     "static/media/subscription_page.png": "/Portfolio/static/media/subscription_page.230abacd0e3da2d4607e.png",
     "static/media/sto_mypage_2.png": "/Portfolio/static/media/sto_mypage_2.2949657c3cf8fed2578d.png",
     "static/media/sto_img_1.png": "/Portfolio/static/media/sto_img_1.795d05607c86e117d8ea.png",
@@ -28,12 +34,12 @@
     "static/media/question_1.png": "/Portfolio/static/media/question_1.ad6811bada38c552467c.png",
     "static/media/question_2.png": "/Portfolio/static/media/question_2.f1cc03066bae44c751dc.png",
     "index.html": "/Portfolio/index.html",
-    "main.d7bf67cf.css.map": "/Portfolio/static/css/main.d7bf67cf.css.map",
-    "main.2725185d.js.map": "/Portfolio/static/js/main.2725185d.js.map",
+    "main.81753a6d.css.map": "/Portfolio/static/css/main.81753a6d.css.map",
+    "main.2848a31c.js.map": "/Portfolio/static/js/main.2848a31c.js.map",
     "787.7da95b79.chunk.js.map": "/Portfolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7bf67cf.css",
-    "static/js/main.2725185d.js"
+    "static/css/main.81753a6d.css",
+    "static/js/main.2848a31c.js"
   ]
 }
